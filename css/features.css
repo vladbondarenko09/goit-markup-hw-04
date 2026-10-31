@@ -20,3 +20,14 @@
 .features-item {
   width: calc((100% - 3 * 24px) / 4);
 }
+.features-list-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  width: 264px;
+  height: 112px;
+  background-color: #f4f4fd;
+  margin-bottom: 8px;
+}
