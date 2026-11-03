@@ -96,3 +96,7 @@
   background-color: #404bbf;
   bottom: 0;
 }
+
+.nav-link.active {
+  color: #404bbf;
+}
